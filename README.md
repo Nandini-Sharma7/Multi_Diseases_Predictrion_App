@@ -28,3 +28,10 @@ This app provides **instant predictions** and **personalized health recommendati
 - **Libraries:** scikit-learn, pandas, joblib
   
 - **Algorithms:** Logistic Regression, Decision Trees, Random Forest, SVM  
+
+
+💡 Future Improvements
+
+- Add more diseases for prediction
+
+- Enhance recommendation system with diet & fitness APIs
