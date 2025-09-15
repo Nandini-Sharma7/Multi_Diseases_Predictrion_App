@@ -3,6 +3,8 @@
 A **Streamlit-based Machine Learning Web Application** that predicts the risk of multiple diseases including **❤️ Heart Disease, 🧠 Brain Stroke, 🫁 Lungs Recovery, and 🧬 Kidney Disease**.  
 This app provides **instant predictions** and **personalized health recommendations** to promote better healthcare decisions.  
 
+[![Streamlit App](https://nandini-sharma-multi-diseases-prediction-app.streamlit.app/)
+
 ---
 
 ## ⚡ Features
